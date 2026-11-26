@@ -1,6 +1,6 @@
 # Scholar Chat
 
-![Scholar Chat Banner](screenshots\Chat_App_Project.png)
+![Scholar Chat Banner](screenshots/Chat_App_Project.png)
 
 A real-time mobile chat application built with Flutter and Firebase, allowing users to authenticate securely and exchange instant messages.
 
@@ -17,7 +17,7 @@ A real-time mobile chat application built with Flutter and Firebase, allowing us
 ## App Showcase
 
 ### Login & Register
-![Login and Register](screenshots\Login&Register_Screen.png)
+![Login and Register](screenshots/Login&Register_Screen.png)
 
 ### Chat Screen
-![Chat Screen](screenshots\Chat_Screen.png)
+![Chat Screen](screenshots/Chat_Screen.png)
